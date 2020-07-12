@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color:#cce8e6;
+    border: slateblue;
+    display: flex;
+    justify-content: center;
+}
+.header-content{
+    width: 60%;
+    padding: 5px;
+    display: flex;
+}
+.logo img{
+    margin-top: 10px;
+    width: 50%;
+}
+.profile-name h3{
+    font-size: x-large;
+    margin: 20px;
+    border-width: 5px;
+}
+.p{
+    color:green;
+    border-radius: 6px;
+    border-style: ridge;
+    }
